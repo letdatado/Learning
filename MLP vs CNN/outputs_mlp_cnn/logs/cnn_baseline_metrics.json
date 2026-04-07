@@ -1,0 +1,17 @@
+{
+  "run_name": "cnn_baseline",
+  "arch": "cnn",
+  "dropout_rate": 0.0,
+  "l2_strength": 0.0,
+  "epochs": 20,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "train_time_sec": 720.857798576355,
+  "num_params": 421642,
+  "test_loss": 0.39304402470588684,
+  "test_accuracy": 0.9158999919891357,
+  "final_train_accuracy": 0.9858750104904175,
+  "final_val_accuracy": 0.9198333621025085,
+  "generalisation_gap": 0.06604164838790894,
+  "acc_per_10k_params": 0.021722219133509843
+}

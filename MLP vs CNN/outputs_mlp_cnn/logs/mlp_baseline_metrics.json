@@ -1,0 +1,17 @@
+{
+  "run_name": "mlp_baseline",
+  "arch": "mlp",
+  "dropout_rate": 0.0,
+  "l2_strength": 0.0,
+  "epochs": 20,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "train_time_sec": 96.16598701477051,
+  "num_params": 101770,
+  "test_loss": 0.39996376633644104,
+  "test_accuracy": 0.8676999807357788,
+  "final_train_accuracy": 0.9287916421890259,
+  "final_val_accuracy": 0.878000020980835,
+  "generalisation_gap": 0.05079162120819092,
+  "acc_per_10k_params": 0.08526088048892393
+}

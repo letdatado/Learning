@@ -1,0 +1,15 @@
+{
+  "model_name": "baseline_cnn",
+  "seed": 42,
+  "epochs": 20,
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "train_time_sec": 720.3867425918579,
+  "num_params": 421642,
+  "test_loss": 0.4041297733783722,
+  "test_accuracy": 0.9138000011444092,
+  "acc_per_10k_params": 0.021672414065591405,
+  "final_train_accuracy": 0.9850000143051147,
+  "final_val_accuracy": 0.9147499799728394
+}

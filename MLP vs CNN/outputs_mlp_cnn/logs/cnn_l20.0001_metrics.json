@@ -1,0 +1,17 @@
+{
+  "run_name": "cnn_l20.0001",
+  "arch": "cnn",
+  "dropout_rate": 0.0,
+  "l2_strength": 0.0001,
+  "epochs": 20,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "train_time_sec": 719.0616834163666,
+  "num_params": 421642,
+  "test_loss": 0.41867104172706604,
+  "test_accuracy": 0.9045000076293945,
+  "final_train_accuracy": 0.972000002861023,
+  "final_val_accuracy": 0.9082499742507935,
+  "generalisation_gap": 0.06375002861022949,
+  "acc_per_10k_params": 0.021451847957020282
+}

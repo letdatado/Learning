@@ -1,0 +1,17 @@
+{
+  "run_name": "cnn_drop0.3",
+  "arch": "cnn",
+  "dropout_rate": 0.3,
+  "l2_strength": 0.0,
+  "epochs": 20,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "train_time_sec": 704.5037086009979,
+  "num_params": 421642,
+  "test_loss": 0.28005096316337585,
+  "test_accuracy": 0.9178000092506409,
+  "final_train_accuracy": 0.9667708277702332,
+  "final_val_accuracy": 0.9224166870117188,
+  "generalisation_gap": 0.044354140758514404,
+  "acc_per_10k_params": 0.02176728146746863
+}

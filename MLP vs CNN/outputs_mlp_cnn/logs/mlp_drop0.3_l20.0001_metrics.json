@@ -1,0 +1,17 @@
+{
+  "run_name": "mlp_drop0.3_l20.0001",
+  "arch": "mlp",
+  "dropout_rate": 0.3,
+  "l2_strength": 0.0001,
+  "epochs": 20,
+  "batch_size": 128,
+  "learning_rate": 0.001,
+  "train_time_sec": 86.0511794090271,
+  "num_params": 101770,
+  "test_loss": 0.3936208188533783,
+  "test_accuracy": 0.8784999847412109,
+  "final_train_accuracy": 0.8924999833106995,
+  "final_val_accuracy": 0.8843333125114441,
+  "generalisation_gap": 0.008166670799255371,
+  "acc_per_10k_params": 0.08632209735100825
+}
